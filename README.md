@@ -95,6 +95,3 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
  [鱼香ROS的开源及教学代码](https://gitee.com/ohhuo/ros2bookcode)
 - 感谢实验室学长的支持
 - 感谢众多开源作者的技术分享与支持
-
-感谢以下开源项目的启发：
-
